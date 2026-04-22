@@ -12,15 +12,10 @@ A Software Engineering student passionate about full-stack development and build
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,java,cs,dart,html,react,nextjs,vue,nuxtjs,tailwind,vite,nodejs,spring,laravel,flutter,firebase,mysql,supabase,figma&perline=21" />
-</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=js,ts,php,java,cs,dart,html,react,nextjs,vue,nuxtjs,tailwind,vite,nodejs,spring,laravel,flutter,firebase,mysql,supabase,figma&perline=21" /></p>
 
 ---
 
 ## 🌐 Socials
 
-<p align="left">
-  <a href="https://www.github.com/pakpoomrodjana-maker"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;
-  <a href="https://www.facebook.com/pakpoom.rodjana"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" height="48" /></a>
-</p>
+<p align="left"><a href="https://www.github.com/pakpoomrodjana-maker"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;<a href="https://www.facebook.com/pakpoom.rodjana"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" height="48" /></a></p>
