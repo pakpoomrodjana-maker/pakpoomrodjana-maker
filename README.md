@@ -18,4 +18,4 @@ A Software Engineering student passionate about full-stack development and build
 
 ## 🌐 Socials
 
-<p align="left"><a href="https://www.github.com/pakpoomrodjana-maker"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;<a href="https://www.facebook.com/pakpoom.rodjana"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" height="48" /></a></p>
+<table><tr><td><a href="https://www.github.com/pakpoomrodjana-maker"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" /></a></td><td><a href="https://www.facebook.com/pakpoom.rodjana"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" height="48" /></a></td></tr></table>
