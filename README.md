@@ -5,7 +5,7 @@
 A Software Engineering student passionate about full-stack development and building scalable web applications. Currently focusing on mastering modern frameworks, server-side logic, and RESTful APIs to deliver efficient, high-performance, and reliable digital solutions.
 
 - 🌍 &nbsp;Based in Thailand
-- 🖥️ &nbsp;See my portfolio at [pakpoom.rodjana-vercel.com](http://pakpoom.rodjana-vercel.com)
+- 🖥️ &nbsp;See my portfolio at [https://pakpoom-rodjana-portfolio.vercel.app/](https://pakpoom-rodjana-portfolio.vercel.app/)
 - ✉️ &nbsp;Contact me at [pakpoom.rodjana@gmail.com](mailto:pakpoom.rodjana@gmail.com)
 
 ---
